@@ -9,6 +9,7 @@ I think it will take much time
 this was written from Brackets
 I try to change it again
 it's quite strange
+<<<<<<< HEAD
 why it deleted my last one and add it again?
 let me change it again
 OK, it alwasy delet the last line once you close the .md file after you finish editing it
@@ -16,3 +17,6 @@ OK, it alwasy delet the last line once you close the .md file after you finish e
 =======
 this was written from Brackets
 >>>>>>> parent of a16e256... strange
+=======
+why it deleted my last one and add it again?
+>>>>>>> parent of ef16393... some how understand
