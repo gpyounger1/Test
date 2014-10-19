@@ -8,3 +8,5 @@ this was written from Brackets
 I try to change it again
 it's quite strange
 why it deleted my last one and add it again?
+let me change it again
+OK, it alwasy delet the last line once you close the .md file after you finish editing it
